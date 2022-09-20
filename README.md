@@ -2,7 +2,8 @@
 
 Project made during Next Level Week event by Rocketseat.
 
-![preview] (./.github/preview.png)
+<h3>👀 Preview</h3>
+<img src="./.github/preview.png">
 
 ## 🔨 Built with
 
@@ -10,6 +11,6 @@ Project made during Next Level Week event by Rocketseat.
 - CSS
 - Git and Github
 
-🔗 Link for project
 
-[NLW - eSports] (https://nadiacoelhoc.github.io/NLW-eSports/)
+## 🔗 Link for project
+### <a href="https://nadiacoelhoc.github.io/NLW-eSports/">NLW eSports</a>
