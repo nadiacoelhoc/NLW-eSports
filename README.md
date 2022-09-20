@@ -13,4 +13,4 @@ Project made during Next Level Week event by Rocketseat.
 
 
 ## 🔗 Link for project
-### <a href="https://nadiacoelhoc.github.io/NLW-eSports/">NLW eSports</a>
+### <a href="https://nadiacoelhoc.github.io/NLW-eSports/" target="_blank">NLW eSports</a>
